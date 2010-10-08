@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
      "README.md",
      "Rakefile",
      "lib/relevant/datetime.rb",
+     "relevant-datetime.gemspec",
      "spec/relevant/datetime_spec.rb",
      "spec/spec_helper.rb"
   ]
