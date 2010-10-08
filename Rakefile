@@ -13,8 +13,8 @@ begin
     gemspec.email = "opensource@thinkrelevance.com"
     gemspec.homepage = "http://github.com/relevance/relevant-datetime"
     gemspec.authors = ["Jared Pace", "Rob Sanheim"]
-    gemspec.add_dependency "relevant-widget", "~> 0.0.6"
-    gemspec.add_development_dependency "rspec", "~> 2.0.0.beta.22"
+    gemspec.add_dependency "relevant-widget", "~> 0.0.7"
+    gemspec.add_development_dependency "rspec", "~> 2.0.0.rc"
   end
   Jeweler::GemcutterTasks.new
   

@@ -2,7 +2,7 @@ require "relevant/widget"
 
 module Relevant
   class Datetime
-    Version = "0.0.1"
+    Version = "0.0.2"
     include Relevant::Widget
     
     available_options :format => :string
